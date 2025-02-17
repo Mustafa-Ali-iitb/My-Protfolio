@@ -14,8 +14,6 @@ function Main() {
           <img src={myImage} alt="Avatar" />
         </div>
         <div className="content">
-          
-          
           <h2>Hey, </h2>
           <h2>I’m <span className="highlight">Mustafa Ali</span>—a software developer, filmmaker, and traveler.  </h2>
           <h3>Ever heard of a guy who gets things done? Yeah, that’s me.</h3>

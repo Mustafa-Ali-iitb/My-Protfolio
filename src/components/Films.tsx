@@ -1,91 +1,3 @@
-// import React, { useState } from "react";
-// import mock07 from '../assets/images/obj-det.png';
-// import mock08 from '../assets/images/mot.png';
-// import mock10 from '../assets/images/travel-planner.png';
-// import mock09 from '../assets/images/umate.png';
-// import '../assets/styles/Project.scss';
-
-// function Films() {
-//     const [showMore, setShowMore] = useState(false);
-
-//     const videos = [
-//         { 
-//             title: "Travel Planner", 
-//             description: "Created a responsive trip planning app with React and Spring Boot, integrating APIs for secure data handling and providing a user-friendly interface for planning travels.", 
-//             url: "https://www.youtube.com/embed/xxxxxxx", 
-//             thumbnail: mock10 
-//         },
-//         { 
-//             title: "UMate - Bumble for Roommates", 
-//             description: "Developed a web app for connecting potential roommates using React and Flask, featuring user authentication, profile management, and a recommendation model based on cosine similarity.", 
-//             url: "https://www.youtube.com/embed/yyyyyyy", 
-//             thumbnail: mock09 
-//         },
-//         { 
-//             title: "Multiple Object Tracking for Video Surveillance", 
-//             description: "Implemented an object tracking system for video surveillance using optical flow and Kalman Filtering, enhancing tracking accuracy despite camera motion.", 
-//             url: "https://www.youtube.com/embed/zzzzzzz", 
-//             thumbnail: mock08 
-//         },
-//         { 
-//             title: "Object Detection Using CNN", 
-//             description: "Built an object detection model using YOLOv3 and PyTorch, achieving a 98.24% classification accuracy on the MNIST dataset of grayscale images.", 
-//             url: "https://www.youtube.com/embed/aaaaaaa", 
-//             thumbnail: mock07 
-//         },
-//         { 
-//             title: "Film 5", 
-//             description: "Description for film 5", 
-//             url: "https://www.youtube.com/embed/bbbbbbb", 
-//             thumbnail: mock07
-//         },
-//         { 
-//             title: "Film 6", 
-//             description: "Description for film 6", 
-//             url: "https://www.youtube.com/embed/ccccccc", 
-//             thumbnail: mock08
-//         }
-//     ];
-
-//     return(
-//         <div className="projects-container" id="films">
-//             <h1>Films</h1>
-//             <div className="projects-grid">
-//                 {videos.slice(0, 4).map((video, index) => (
-//                     <div key={index} className="project">
-//                         <a href={video.url} target="_blank" rel="noreferrer">
-//                             <img src={video.thumbnail} className="zoom" alt="thumbnail" width="100%"/>
-//                         </a>
-//                         <a href={video.url} target="_blank" rel="noreferrer"><h2>{video.title}</h2></a>
-//                         <p>{video.description}</p>
-//                     </div>
-//                 ))}
-//                 {showMore && (
-//                     <>
-//                         {videos.slice(4).map((video, index) => (
-//                             <div key={index} className="project">
-//                                 <a href={video.url} target="_blank" rel="noreferrer">
-//                                     <img src={video.thumbnail} className="zoom" alt="thumbnail" width="100%"/>
-//                                 </a>
-//                                 <a href={video.url} target="_blank" rel="noreferrer"><h2>{video.title}</h2></a>
-//                                 <p>{video.description}</p>
-//                             </div>
-//                         ))}
-//                     </>
-//                 )}
-//             </div>
-//             <div className="show-more-container">
-//                 <button onClick={() => setShowMore(!showMore)}>
-//                     {showMore ? "Show Less" : "See More"}
-//                 </button>
-//             </div>
-//         </div>
-//     );
-// }
-
-// export default Films;
-
-
 import React, { useState } from "react";
 import '../assets/styles/Project.scss';
 
@@ -110,18 +22,48 @@ function Films() {
         },
         { 
             title: "Kya Tumhe Mera Phool Mila", 
-            description: "A Music video", 
+            description: "A shy schoolboy secretly loves a girl but fears confessing his feelings. As he struggles with his emotions, she unexpectedly discovers the truth, leading to a moment that could change everything.", 
             videoId: "_rK2_uk9LN4" 
         },
         { 
-            title: "Film 5", 
-            description: "Description for film 5", 
-            videoId: "bbbbbbb"
+            title: "An Escapade to Goa", 
+            description: "Goa - Travel Video", 
+            videoId: "qipK8b03tmk"
         },
         { 
-            title: "Film 6", 
-            description: "Description for film 6", 
-            videoId: "ccccccc"
+            title: "Mysore", 
+            description: "Mysore - Travel Video", 
+            videoId: "fRH2TqUL6qc"
+        },
+        { 
+            title: "2022 Recap", 
+            description: "Farewell, 2022! It's been a year of growth, new experiences, and unforgettable memories. Thank you to all the amazing people who made it special.", 
+            videoId: "xqJaZhImuMM"
+        },
+        { 
+            title: "Chotu", 
+            description: "The story revolves around 'Chotu' a poor man, but his story is not about how the poor struggle to make ends meet or how they put aside their inner desires to put food on their plate. This story is about the humanity that lies within every human-being, the potential that people have to put others in need before themselves.", 
+            videoId: "rQqHo54DU8Q"
+        },
+        { 
+            title: "A Cigarette a day", 
+            description: "In a busy mundane world, one often find themselves under infinite stress and pressure. Sometimes we seek a few not-so-favourable escape routes for momentary pleasures often entangling ourselves in the unhealthy practices of society. Watch as a few ill choices and some tough luck of an ordinary individual spirals down to something unprepared for.", 
+            videoId: "OxpNFjeST_s"
+        },
+        { 
+            title: "Plan Z", 
+            description: "Two miserable kidnappers ask a ransom of 1.25 crores. With several failures and a few successes, here is a tale of two men as they plot and execute several plans to earn a handful of cash.", 
+            videoId: "Y45whWzNiE8"
+        },
+        { 
+            title: "The Connection - A 50 Hour Film Project", 
+            description: "The seemingly  dissonant lives of two people find a beautiful harmony as the surreal connection becomes apparent.", 
+            videoId: "evh2w1JlWV0"
+        },
+        { 
+            title: "The Script", 
+            description: "Watch what happens when two writers discept a script unbeknownst unbeknownst as fantasy fades to reality.", 
+            videoId: "NOFc7FCgNYs"
         }
     ];
 
