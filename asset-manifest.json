@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-portfolio-template/static/css/main.3089f657.css",
-    "main.js": "/react-portfolio-template/static/js/main.24e48518.js",
-    "static/js/453.b05d8aa5.chunk.js": "/react-portfolio-template/static/js/453.b05d8aa5.chunk.js",
-    "static/media/obj-det.png": "/react-portfolio-template/static/media/obj-det.f05188b6fcf070f16a85.png",
-    "static/media/mot.png": "/react-portfolio-template/static/media/mot.0dd60e5eedfc5566a1db.png",
-    "static/media/umate.png": "/react-portfolio-template/static/media/umate.3fa2828f90e042a4b400.png",
-    "static/media/bg-light.png": "/react-portfolio-template/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/bg-dark-2.png": "/react-portfolio-template/static/media/bg-dark-2.3b9a5fa93718d0d3a96c.png",
-    "static/media/my-photo.png": "/react-portfolio-template/static/media/my-photo.eb87fd51a08299cdf299.png",
-    "static/media/travel-planner.png": "/react-portfolio-template/static/media/travel-planner.1b55c087ce6b89ee8fe1.png",
-    "index.html": "/react-portfolio-template/index.html",
-    "main.3089f657.css.map": "/react-portfolio-template/static/css/main.3089f657.css.map",
-    "main.24e48518.js.map": "/react-portfolio-template/static/js/main.24e48518.js.map",
-    "453.b05d8aa5.chunk.js.map": "/react-portfolio-template/static/js/453.b05d8aa5.chunk.js.map"
+    "main.css": "/My-Protfolio/static/css/main.fea981d3.css",
+    "main.js": "/My-Protfolio/static/js/main.f70c28b6.js",
+    "static/js/453.b05d8aa5.chunk.js": "/My-Protfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/obj-det.png": "/My-Protfolio/static/media/obj-det.f05188b6fcf070f16a85.png",
+    "static/media/mot.png": "/My-Protfolio/static/media/mot.0dd60e5eedfc5566a1db.png",
+    "static/media/umate.png": "/My-Protfolio/static/media/umate.3fa2828f90e042a4b400.png",
+    "static/media/bg-light.png": "/My-Protfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark-2.png": "/My-Protfolio/static/media/bg-dark-2.3b9a5fa93718d0d3a96c.png",
+    "static/media/my-photo.png": "/My-Protfolio/static/media/my-photo.eb87fd51a08299cdf299.png",
+    "static/media/travel-planner.png": "/My-Protfolio/static/media/travel-planner.1b55c087ce6b89ee8fe1.png",
+    "index.html": "/My-Protfolio/index.html",
+    "main.fea981d3.css.map": "/My-Protfolio/static/css/main.fea981d3.css.map",
+    "main.f70c28b6.js.map": "/My-Protfolio/static/js/main.f70c28b6.js.map",
+    "453.b05d8aa5.chunk.js.map": "/My-Protfolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3089f657.css",
-    "static/js/main.24e48518.js"
+    "static/css/main.fea981d3.css",
+    "static/js/main.f70c28b6.js"
   ]
 }
