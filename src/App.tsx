@@ -6,6 +6,7 @@ import {
   Project,
   Contact,
   Navigation,
+  Films,
   Footer,
 } from "./components";
 import FadeIn from './components/FadeIn';
@@ -34,6 +35,7 @@ function App() {
             <Expertise/>
             <Timeline/>
             <Project/>
+            <Films/>
             <Contact/>
         </FadeIn>
         <Footer />
