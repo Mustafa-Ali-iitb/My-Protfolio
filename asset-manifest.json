@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/My-Protfolio/static/css/main.fea981d3.css",
-    "main.js": "/My-Protfolio/static/js/main.f70c28b6.js",
-    "static/js/453.b05d8aa5.chunk.js": "/My-Protfolio/static/js/453.b05d8aa5.chunk.js",
-    "static/media/obj-det.png": "/My-Protfolio/static/media/obj-det.f05188b6fcf070f16a85.png",
-    "static/media/mot.png": "/My-Protfolio/static/media/mot.0dd60e5eedfc5566a1db.png",
-    "static/media/umate.png": "/My-Protfolio/static/media/umate.3fa2828f90e042a4b400.png",
-    "static/media/bg-light.png": "/My-Protfolio/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/bg-dark-2.png": "/My-Protfolio/static/media/bg-dark-2.3b9a5fa93718d0d3a96c.png",
-    "static/media/my-photo.png": "/My-Protfolio/static/media/my-photo.eb87fd51a08299cdf299.png",
-    "static/media/travel-planner.png": "/My-Protfolio/static/media/travel-planner.1b55c087ce6b89ee8fe1.png",
-    "index.html": "/My-Protfolio/index.html",
-    "main.fea981d3.css.map": "/My-Protfolio/static/css/main.fea981d3.css.map",
-    "main.f70c28b6.js.map": "/My-Protfolio/static/js/main.f70c28b6.js.map",
-    "453.b05d8aa5.chunk.js.map": "/My-Protfolio/static/js/453.b05d8aa5.chunk.js.map"
+    "main.css": "/My-Portfolio/static/css/main.402c05b9.css",
+    "main.js": "/My-Portfolio/static/js/main.c154f7f5.js",
+    "static/js/453.b05d8aa5.chunk.js": "/My-Portfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/obj-det.png": "/My-Portfolio/static/media/obj-det.f05188b6fcf070f16a85.png",
+    "static/media/mot.png": "/My-Portfolio/static/media/mot.0dd60e5eedfc5566a1db.png",
+    "static/media/umate.png": "/My-Portfolio/static/media/umate.3fa2828f90e042a4b400.png",
+    "static/media/bg-light.png": "/My-Portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark-2.png": "/My-Portfolio/static/media/bg-dark-2.3b9a5fa93718d0d3a96c.png",
+    "static/media/my-photo.png": "/My-Portfolio/static/media/my-photo.eb87fd51a08299cdf299.png",
+    "static/media/travel-planner.png": "/My-Portfolio/static/media/travel-planner.1b55c087ce6b89ee8fe1.png",
+    "index.html": "/My-Portfolio/index.html",
+    "main.402c05b9.css.map": "/My-Portfolio/static/css/main.402c05b9.css.map",
+    "main.c154f7f5.js.map": "/My-Portfolio/static/js/main.c154f7f5.js.map",
+    "453.b05d8aa5.chunk.js.map": "/My-Portfolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fea981d3.css",
-    "static/js/main.f70c28b6.js"
+    "static/css/main.402c05b9.css",
+    "static/js/main.c154f7f5.js"
   ]
 }
